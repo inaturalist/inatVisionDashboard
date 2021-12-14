@@ -1,0 +1,9 @@
+taxonomy_csv_file: "/path/to/taxonomy_data.csv"
+cv_model_path: "/path/to/xception/model/"
+cv_num_classes: 1000
+geo_model_path: "/path/to/geo/model.pth.tar"
+
+cv_upload_tmp_path: "static/"
+taxon_photos_redis_host: "localhost"
+taxon_photos_redis_port: 6379
+taxon_photos_redis_db:  2

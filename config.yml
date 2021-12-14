@@ -1,0 +1,9 @@
+taxonomy_csv_file: "/data-ssd/alex/datasets/slim_export_20201213/taxonomy_data.csv"
+cv_model_path: "/data-ssd/alex/experiments/slim_export/1608157217/final_model/final"
+cv_num_classes: 38148
+geo_model_path: "/home/alex/geo_prior/geo_prior_inat/models/model_inat_slim_2020_FCNet_256_09_oct.pth.tar"
+
+cv_upload_tmp_path: "static/"
+taxon_photos_redis_host: "localhost"
+taxon_photos_redis_port: 6379
+taxon_photos_redis_db:  2
