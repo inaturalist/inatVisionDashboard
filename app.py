@@ -30,7 +30,8 @@ config = yaml.safe_load(open("config.yml"))
 
 # clean up the static directory on launch
 for f in os.listdir(config["cv_upload_tmp_path"]):
-    os.remove(os.path.join(config["cv_upload_tmp_path"], f))
+    if f != ".gitkeep":
+        os.remove(os.path.join(config["cv_upload_tmp_path"], f))
 
 # don't touch the GPU, if there is one
 tf.config.set_visible_devices([], "GPU")
