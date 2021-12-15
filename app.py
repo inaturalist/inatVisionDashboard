@@ -82,16 +82,16 @@ def photo_urls_for_taxon_id(taxon_id):
     """
     fetch taxon photo urls and cache them in redis
     """
-    tp_key = "{}-taxon-photo".format(taxon_id)
+    tp_redis_key = "{}-taxon-photo".format(taxon_id)
 
-    if not taxon_photo_redis.exists(tp_key):
+    if not taxon_photo_redis.exists(tp_redis_key):
         url = "https://api.inaturalist.org/v1/taxa/{}".format(taxon_id)
         r = requests.get(url)
         for taxon in r.json()["results"]:
             tid = taxon["id"]
             tp_urls = [tp["photo"]["medium_url"] for tp in taxon["taxon_photos"]]
             tp_key = "{}-taxon-photo".format(tid)
-            taxon_photo_redis.set(tp_key, tp_urls[0])
+            taxon_photo_redis.set(tp_redis_key, tp_urls[0])
 
     return taxon_photo_redis.get(tp_redis_key).decode()
 
