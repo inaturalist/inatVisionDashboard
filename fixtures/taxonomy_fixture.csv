@@ -1,0 +1,1782 @@
+parent_taxon_id,taxon_id,rank_level,leaf_class_id,name
+48848,47802,10.0,0,Lymantria dispar
+861036,47850,10.0,1,Quercus agrifolia
+48241,48240,10.0,2,Erythronium americanum
+53030,56002,10.0,3,Dipsacus fullonum
+54521,55971,10.0,4,Tanacetum vulgare
+60783,60782,10.0,5,Pluteus cervinus
+873639,67820,10.0,6,Erigeron philadelphicus
+49338,49339,10.0,7,Encelia farinosa
+47906,47911,10.0,8,Asclepias syriaca
+1112639,54999,10.0,9,Eriogonum fasciculatum
+46257,46260,10.0,10,Tamiasciurus hudsonicus
+39770,39771,10.0,11,Chrysemys picta
+52914,52913,10.0,12,Cichorium intybus
+49203,49202,10.0,13,Fagus grandifolia
+84550,84549,10.0,14,Plathemis lydia
+51370,55387,10.0,15,Esox lucius
+792976,792988,10.0,16,Dryobates pubescens
+58533,58532,10.0,17,Colias eurytheme
+54451,54449,10.0,18,Carnegiea gigantea
+483776,54834,10.0,19,Prunus serotina
+49664,49662,10.0,20,Platanus occidentalis
+29299,29305,10.0,21,Nerodia sipedon
+48686,48685,10.0,22,Typha latifolia
+49589,49587,10.0,23,Micropterus salmoides
+54469,207977,10.0,24,Aglais io
+49478,49477,10.0,25,Monotropa uniflora
+48539,48538,10.0,26,Cytisus scoparius
+483776,54835,10.0,27,Prunus virginiana
+571260,51110,10.0,28,Xylocopa virginica
+789375,84640,10.0,29,Polistes dominula
+1105043,52821,10.0,30,Achillea millefolium
+81547,81545,10.0,31,Lumbricus terrestris
+56955,57983,10.0,32,Helianthus annuus
+3438,3460,10.0,33,Zenaida asiatica
+545186,47226,10.0,34,Papilio rutulus
+47544,51646,10.0,35,Rubus parviflorus
+119607,485010,10.0,36,Chinavia hilaris
+61786,211100,10.0,37,Malacosoma americana
+48257,48256,10.0,38,Pseudotsuga menziesii
+54735,54734,10.0,39,Parmelia sulcata
+43096,43111,10.0,40,Sylvilagus floridanus
+81560,81559,10.0,41,Epargyreus clarus
+47977,47975,10.0,42,Argia apicalis
+51556,68139,10.0,43,Sympetrum vicinum
+736941,49566,10.0,44,Cicindela sexguttata
+60340,65982,10.0,45,Lithobates clamitans
+47777,47776,10.0,46,Ariolimax columbianus
+12935,12942,10.0,47,Sialia sialis
+122240,122238,10.0,48,Porcellio scaber
+868391,76942,10.0,49,Erigeron strigosus
+52472,53324,10.0,50,Vicia sativa
+4343,4364,10.0,51,Larus delawarensis
+144410,145310,10.0,52,Spinus tristis
+59775,59774,10.0,53,Pachydiplax longipennis
+118056,775410,10.0,54,Fomitopsis betulina
+127187,127186,10.0,55,Securigera varia
+125670,125669,10.0,56,Rumina decollata
+743344,53983,10.0,57,Digitalis purpurea
+58533,58531,10.0,58,Colias philodice
+52999,52998,10.0,59,Conium maculatum
+67329,67328,10.0,60,Pholcus phalangioides
+545186,58525,10.0,61,Papilio troilus
+49195,49193,10.0,62,Callicarpa americana
+53438,78882,10.0,63,Rosa multiflora
+58562,58561,10.0,64,Libytheana carinenta
+52689,84300,10.0,65,Sambucus canadensis
+53270,53269,10.0,66,Sonchus asper
+55460,55459,10.0,67,Lamium amplexicaule
+47193,47192,10.0,68,Cornus canadensis
+48290,48284,10.0,69,Oniscus asellus
+47818,47934,10.0,70,Libellula luctuosa
+17007,17013,10.0,71,Sayornis nigricans
+53095,53094,10.0,72,Heracleum maximum
+50175,99897,10.0,73,Enallagma civile
+7105,7107,10.0,74,Aix sponsa
+1081313,1081329,10.0,75,Lon zabulon
+49921,56832,10.0,76,Nymphalis antiopa
+738332,51610,10.0,77,Veronica chamaedrys
+45994,46020,10.0,78,Sciurus niger
+55460,55851,10.0,79,Lamium purpureum
+81678,81677,10.0,80,Euchaetes egle
+49764,49761,10.0,81,Anartia jatrophae
+121822,121821,10.0,82,Sceliphron caementarium
+51825,84481,10.0,83,Calopteryx maculata
+35526,55990,10.0,84,Podarcis muralis
+54765,167829,10.0,85,Rhus typhina
+12705,12727,10.0,86,Turdus migratorius
+520586,46217,10.0,87,Tamias striatus
+47189,47188,10.0,88,Pachygrapsus crassipes
+47727,52543,10.0,89,Acer saccharum
+1129535,48473,10.0,90,Ganoderma applanatum
+63030,63028,10.0,91,Hypercompe scribonia
+51222,51221,10.0,92,Procambarus clarkii
+538900,52779,10.0,93,Bombus bimaculatus
+81591,81590,10.0,94,Eacles imperialis
+50641,52899,10.0,95,Solanum carolinense
+50280,50278,10.0,96,Parthenocissus quinquefolia
+48507,48549,10.0,97,Vanessa virginiensis
+1096177,145659,10.0,98,Acronicta americana
+50148,50147,10.0,99,Celithemis eponina
+895268,940028,10.0,100,Cerioporus squamosus
+42219,42223,10.0,101,Odocoileus virginianus
+81549,118559,10.0,102,Tetraopes tetrophthalmus
+120218,120217,10.0,103,Halysidota tessellaris
+49151,49150,10.0,104,Dione vanillae
+63523,63518,10.0,105,Melanoplus differentialis
+53854,60749,10.0,106,Ilex opaca
+121613,121612,10.0,107,Estigmene acrea
+27800,27805,10.0,108,Notophthalmus viridescens
+61504,61503,10.0,109,Ascalapha odorata
+1072577,77835,10.0,110,Lonicera japonica
+52472,57317,10.0,111,Vicia villosa
+8228,8229,10.0,112,Cyanocitta cristata
+49349,49348,10.0,113,Hyles lineata
+59676,59675,10.0,114,Pyrrharctia isabella
+790770,48461,10.0,115,Pinus ponderosa
+4324,4328,10.0,116,Pelecanus occidentalis
+58629,58627,10.0,117,Perca flavescens
+9080,9083,10.0,118,Cardinalis cardinalis
+62232,82358,10.0,119,Chimaphila maculata
+55503,55501,10.0,120,Stereum hirsutum
+199910,199840,10.0,121,Haemorhous mexicanus
+49031,81665,10.0,122,Orgyia leucostigma
+56058,56057,10.0,123,Leucanthemum vulgare
+1184311,47779,10.0,124,Iris pseudacorus
+790765,52391,10.0,125,Pinus strobus
+127511,127510,10.0,126,Fomes fomentarius
+54796,54795,10.0,127,Sassafras albidum
+4755,4756,10.0,128,Cathartes aura
+3438,3454,10.0,129,Zenaida macroura
+45994,46017,10.0,130,Sciurus carolinensis
+87902,124432,10.0,131,Deroceras reticulatum
+53327,55844,10.0,132,Vinca minor
+54856,54854,10.0,133,Tilia americana
+67761,67760,10.0,134,Popillia japonica
+538900,57689,10.0,135,Bombus vosnesenskii
+52054,103498,10.0,136,Ischnura posita
+27135,27186,10.0,137,Plethodon cinereus
+17007,17008,10.0,138,Sayornis phoebe
+48801,48502,10.0,139,Cercis canadensis
+49465,55402,10.0,140,Trillium grandiflorum
+49052,49051,10.0,141,Anthopleura sola
+53060,53059,10.0,142,Galium aparine
+52159,52158,10.0,143,Schistocerca nitens
+9132,9135,10.0,144,Spizella passerina
+42044,42051,10.0,145,Canis latrans
+50249,67748,10.0,146,Maianthemum canadense
+64009,64006,10.0,147,Corbicula fluminea
+52195,55759,10.0,148,Silene dioica
+52689,765394,10.0,149,Sambucus nigra
+53554,116681,10.0,150,Atteva aurea
+62807,62806,10.0,151,Mytilus californianus
+52111,53359,10.0,152,Baccharis pilularis
+42219,42220,10.0,153,Odocoileus hemionus
+472,473,10.0,154,Fulica americana
+48533,48961,10.0,155,Symplocarpus foetidus
+545185,50072,10.0,156,Papilio cresphontes
+48255,48734,10.0,157,Tsuga canadensis
+41637,41638,10.0,158,Ursus americanus
+68199,68205,10.0,159,Larrea tridentata
+82286,82279,10.0,160,Automeris io
+58753,126889,10.0,161,Toxomerus marginatus
+55215,71154,10.0,162,Aphis nerii
+47889,47888,10.0,163,Impatiens capensis
+1072574,82342,10.0,164,Lonicera maackii
+62463,62456,10.0,165,Rhagonycha fulva
+51556,68138,10.0,166,Sympetrum corruptum
+50881,58586,10.0,167,Limenitis archippus
+144351,144815,10.0,168,Poecile atricapillus
+82009,119989,10.0,169,Stagmomantis carolina
+43792,43794,10.0,170,Castor canadensis
+779781,52994,10.0,171,Claytonia perfoliata
+47752,54412,10.0,172,Polystichum acrostichoides
+538902,56887,10.0,173,Bombus pensylvanicus
+52924,52925,10.0,174,Phyciodes tharos
+81924,81923,10.0,175,Halyomorpha halys
+52195,79109,10.0,176,Silene latifolia
+14877,14886,10.0,177,Mimus polyglottos
+47977,94557,10.0,178,Argia moesta
+127135,127133,10.0,179,Hyphantria cunea
+53270,53294,10.0,180,Sonchus oleraceus
+58728,58727,10.0,181,Berberis thunbergii
+82202,118513,10.0,182,Hypena scabra
+9740,9744,10.0,183,Agelaius phoeniceus
+81555,81554,10.0,184,Ictalurus punctatus
+53580,53582,10.0,185,Liriodendron tulipifera
+49661,49658,10.0,186,Liquidambar styraciflua
+60340,66012,10.0,187,Lithobates sylvaticus
+49595,49594,10.0,188,Pomoxis nigromaculatus
+54757,55576,10.0,189,Xanthoria parietina
+49597,49596,10.0,190,Salvelinus fontinalis
+42646,42652,10.0,191,Didelphis virginiana
+11880,11901,10.0,192,Hirundo rustica
+47746,52724,10.0,193,Equisetum arvense
+179939,180007,10.0,194,Otospermophilus beecheyi
+789379,52757,10.0,195,Polistes fuscatus
+48295,56083,10.0,196,Armadillidium vulgare
+47193,53387,10.0,197,Cornus sericea
+701533,49399,10.0,198,Juniperus virginiana
+47436,47435,10.0,199,Lotus corniculatus
+4638,4665,10.0,200,Falco sparverius
+59122,59119,10.0,201,Pontia protodice
+58667,58662,10.0,202,Semotilus atromaculatus
+549548,82003,10.0,203,Arion ater
+1125873,56137,10.0,204,Ornithogalum umbellatum
+904332,904336,10.0,205,Trichonephila clavipes
+1087592,53298,10.0,206,Stellaria media
+4979,4981,10.0,207,Nycticorax nycticorax
+54328,54327,10.0,208,Vespa crabro
+122380,122381,10.0,209,Cupido comyntas
+51876,55745,10.0,210,Trifolium repens
+47727,48098,10.0,211,Acer rubrum
+49290,49288,10.0,212,Podophyllum peltatum
+48217,69155,10.0,213,Fucus distichus
+18230,18236,10.0,214,Colaptes auratus
+83800,83799,10.0,215,Mitchella repens
+47818,104586,10.0,216,Libellula vibrans
+9599,9607,10.0,217,Quiscalus mexicanus
+50392,58579,10.0,218,Polygonia interrogationis
+48561,60132,10.0,219,Cirsium arvense
+54812,54811,10.0,220,Rhamnus cathartica
+54469,54468,10.0,221,Aglais urticae
+48226,48225,10.0,222,Eschscholzia californica
+48532,48529,10.0,223,Tremella mesenterica
+71725,116999,10.0,224,Pandion haliaetus
+7998,8021,10.0,225,Corvus brachyrhynchos
+61257,67771,10.0,226,Leptoglossus occidentalis
+558404,558438,10.0,227,Spatula clypeata
+34434,34435,10.0,228,Hemidactylus turcicus
+55831,55830,10.0,229,Glechoma hederacea
+55488,55487,10.0,230,Diabrotica undecimpunctata
+49975,49972,10.0,231,Battus philenor
+947427,56318,10.0,232,Coprinellus micaceus
+13847,13858,10.0,233,Passer domesticus
+4764,4765,10.0,234,Coragyps atratus
+47483,61523,10.0,235,Helix pomatia
+790771,58722,10.0,236,Pinus sylvestris
+861033,56133,10.0,237,Quercus robur
+6913,6921,10.0,238,Cygnus olor
+53106,53107,10.0,239,Lactuca serriola
+48663,48662,10.0,240,Danaus plexippus
+7086,7089,10.0,241,Branta canadensis
+1117856,123628,10.0,242,Argynnis paphia
+861033,54779,10.0,243,Quercus alba
+51703,51702,10.0,244,Coccinella septempunctata
+172111,215409,10.0,245,Bradybaena similaris
+56564,53905,10.0,246,Mantis religiosa
+47752,47751,10.0,247,Polystichum munitum
+52683,52681,10.0,248,Pteridium aquilinum
+47688,47687,10.0,249,Erodium cicutarium
+9175,9176,10.0,250,Zonotrichia leucophrys
+21360,326296,10.0,251,Bufo bufo
+47701,47699,10.0,252,Geranium maculatum
+36362,36514,10.0,253,Anolis carolinensis
+7998,8010,10.0,254,Corvus corax
+47552,67707,10.0,255,Argiope aurantia
+55758,55757,10.0,256,Chelidonium majus
+2926,2969,10.0,257,Streptopelia decaocto
+48834,49699,10.0,258,Pisaster ochraceus
+62061,62060,10.0,259,Palomena prasina
+4343,204533,10.0,260,Larus argentatus
+60340,66003,10.0,261,Lithobates pipiens
+48561,52989,10.0,262,Cirsium vulgare
+57067,57066,10.0,263,Melilotus officinalis
+9091,9100,10.0,264,Melospiza melodia
+6922,6930,10.0,265,Anas platyrhynchos
+55690,54087,10.0,266,Pieris napi
+60340,65979,10.0,267,Lithobates catesbeianus
+47519,47518,10.0,268,Salmo trutta
+49052,51659,10.0,269,Anthopleura xanthogrammica
+18158,18205,10.0,270,Melanerpes carolinus
+52472,52471,10.0,271,Vicia cracca
+54495,54504,10.0,272,Juglans nigra
+30692,30764,10.0,273,Crotalus atrox
+49592,85365,10.0,274,Lepomis auritus
+58937,61321,10.0,275,Lythrum salicaria
+1045692,53178,10.0,276,Plantago lanceolata
+131834,202861,10.0,277,Otala lactea
+57067,58907,10.0,278,Melilotus albus
+48587,48586,10.0,279,Cepaea nemoralis
+52054,84722,10.0,280,Ischnura verticalis
+68246,68244,10.0,281,Euptoieta claudia
+67692,82225,10.0,282,Lophocampa caryae
+53022,53021,10.0,283,Convolvulus arvensis
+81688,81687,10.0,284,Noctua pronuba
+83292,83290,10.0,285,Zanclus cornutus
+964908,55925,10.0,286,Geranium robertianum
+545183,56529,10.0,287,Papilio machaon
+984576,62312,10.0,288,Campanula rotundifolia
+51742,51741,10.0,289,Aegopodium podagraria
+64747,64968,10.0,290,Anaxyrus americanus
+52845,52992,10.0,291,Matricaria discoidea
+48230,48229,10.0,292,Ranunculus repens
+48506,48505,10.0,293,Junonia coenia
+62499,62498,10.0,294,Jacobaea vulgaris
+50249,51062,10.0,295,Maianthemum racemosum
+43583,43584,10.0,296,Homo sapiens
+48551,48550,10.0,297,Phoebis sennae
+954920,48715,10.0,298,Amanita muscaria
+62472,62470,10.0,299,Limax maximus
+10246,145245,10.0,300,Setophaga coronata
+47566,54840,10.0,301,Populus tremuloides
+522624,55655,10.0,302,Lycaena phlaeas
+59117,101204,10.0,303,Gambusia holbrooki
+117951,117943,10.0,304,Flavoparmelia caperata
+56727,76610,10.0,305,Daucus carota
+888920,62741,10.0,306,Rudbeckia hirta
+56175,56174,10.0,307,Echium vulgare
+36141,36202,10.0,308,Sceloporus olivaceus
+51876,51875,10.0,309,Trifolium pratense
+52765,52764,10.0,310,Prunella vulgaris
+51148,51147,10.0,311,Crataegus monogyna
+121184,121183,10.0,312,Mythimna unipuncta
+545183,58523,10.0,313,Papilio polyxenes
+36362,116461,10.0,314,Anolis sagrei
+6315,6317,10.0,315,Calypte anna
+64116,119048,10.0,316,Ageratina altissima
+47906,47912,10.0,317,Asclepias tuberosa
+48439,58127,10.0,318,Chenopodium album
+51468,67731,10.0,319,Anax junius
+55883,55882,10.0,320,Hedera helix
+52629,52628,10.0,321,Araneus diadematus
+49592,58636,10.0,322,Lepomis cyanellus
+61786,81663,10.0,323,Malacosoma disstria
+55564,55563,10.0,324,Bellis perennis
+55747,55746,10.0,325,Misumena vatia
+85035,85034,10.0,326,Neoscona crucifera
+35341,35342,10.0,327,Iguana iguana
+10093,10094,10.0,328,Junco hyemalis
+59777,59776,10.0,329,Perithemis tenera
+50392,56225,10.0,330,Polygonia c-album
+4950,4954,10.0,331,Ardea cinerea
+47818,104580,10.0,332,Libellula incesta
+53207,53211,10.0,333,Senecio vulgaris
+578086,47219,10.0,334,Apis mellifera
+50879,76907,10.0,335,Erigeron canadensis
+47393,47392,10.0,336,Coprinus comatus
+13548,203153,10.0,337,Parus major
+48960,48957,10.0,338,Arilus cristatus
+52689,57824,10.0,339,Sambucus racemosa
+51886,51884,10.0,340,Urtica dioica
+14842,14850,10.0,341,Sturnus vulgaris
+52979,56121,10.0,342,Capsella bursa-pastoris
+50341,50340,10.0,343,Hylephila phyleus
+55486,55483,10.0,344,Fuligo septica
+71035,71034,10.0,345,Tenodera sinensis
+502884,502885,10.0,346,Lissachatina fulica
+545186,60551,10.0,347,Papilio glaucus
+538900,118970,10.0,348,Bombus impatiens
+5085,5112,10.0,349,Accipiter cooperii
+53196,53197,10.0,350,Rumex crispus
+47727,54763,10.0,351,Acer platanoides
+3000,3017,10.0,352,Columba livia
+56089,56088,10.0,353,Robinia pseudoacacia
+520029,55719,10.0,354,Eristalis tenax
+5179,5212,10.0,355,Buteo jamaicensis
+857190,59644,10.0,356,Pantherophis alleghaniensis
+49555,49552,10.0,357,Scutigera coleoptrata
+1092918,57056,10.0,358,Medicago lupulina
+64276,64237,10.0,359,Phragmites australis
+59649,73888,10.0,360,Pantherophis obsoletus
+29033,29044,10.0,361,Pituophis catenifer
+52736,85320,10.0,362,Monarda fistulosa
+56223,56222,10.0,363,Tussilago farfara
+4950,144455,10.0,364,Ardea alba
+37763,73788,10.0,365,Plestiodon fasciatus
+738398,55666,10.0,366,Veronica persica
+57280,57278,10.0,367,Ailanthus altissima
+904149,47588,10.0,368,Cypripedium acaule
+47727,47726,10.0,369,Acer negundo
+36141,36204,10.0,370,Sceloporus occidentalis
+50791,50790,10.0,371,Linaria vulgaris
+51769,51768,10.0,372,Gaillardia pulchella
+28555,28562,10.0,373,Storeria dekayi
+56165,59029,10.0,374,Verbascum thapsus
+48431,53713,10.0,375,Laetiporus sulphureus
+50881,60607,10.0,376,Limenitis arthemis
+972792,972793,10.0,377,Apioperdon pyriforme
+36090,36094,10.0,378,Uta stansburiana
+39681,39682,10.0,379,Chelydra serpentina
+55613,55610,10.0,380,Pyrrhocoris apterus
+49592,49614,10.0,381,Lepomis gibbosus
+61858,128824,10.0,382,Lucilia sericata
+1092510,57516,10.0,383,Bombus terrestris
+56536,117308,10.0,384,Chlorophyllum molybdites
+16446,16447,10.0,385,Pyrocephalus rubinus
+59117,59115,10.0,386,Gambusia affinis
+47818,81495,10.0,387,Libellula pulchella
+48444,48443,10.0,388,Lycoperdon perlatum
+10368,10373,10.0,389,Molothrus ater
+58588,68264,10.0,390,Asterocampa celtis
+47522,47516,10.0,391,Oncorhynchus mykiss
+72030,75995,10.0,392,Campsis radicans
+56091,56090,10.0,393,Morus alba
+28339,28362,10.0,394,Thamnophis sirtalis
+379255,914922,10.0,395,Reynoutria japonica
+51079,58732,10.0,396,Toxicodendron radicans
+52912,52911,10.0,397,Dolichovespula maculata
+39776,39782,10.0,398,Trachemys scripta
+47193,54777,10.0,399,Cornus florida
+1153556,54134,10.0,400,Trametes versicolor
+53912,53911,10.0,401,Cyprinus carpio
+53868,61495,10.0,402,Erythemis simplicicollis
+55690,55626,10.0,403,Pieris rapae
+51900,53104,10.0,404,Hypochaeris radicata
+49592,58635,10.0,405,Lepomis megalotis
+26154,26159,10.0,406,Alligator mississippiensis
+48769,48767,10.0,407,Hypholoma fasciculare
+1196640,791928,10.0,408,Lysimachia arvensis
+50641,55620,10.0,409,Solanum dulcamara
+48230,56064,10.0,410,Ranunculus acris
+55695,51781,10.0,411,Tyria jacobaeae
+55642,55641,10.0,412,Polyommatus icarus
+53186,243824,10.0,413,Potentilla indica
+52593,52592,10.0,414,Pararge aegeria
+549546,61428,10.0,415,Arion subfuscus
+48507,48548,10.0,416,Vanessa cardui
+48663,51743,10.0,417,Danaus gilippus
+861036,49005,10.0,418,Quercus rubra
+1196165,48494,10.0,419,Pleurotus ostreatus
+49052,52564,10.0,420,Anthopleura elegantissima
+53196,63371,10.0,421,Rumex obtusifolius
+52847,124544,10.0,422,Anthriscus sylvestris
+49589,49590,10.0,423,Micropterus dolomieu
+48507,49133,10.0,424,Vanessa atalanta
+48487,48484,10.0,425,Harmonia axyridis
+56100,56099,10.0,426,Ajuga reptans
+50940,50931,10.0,427,Strymon melinus
+48601,48599,10.0,428,Phytolacca americana
+53549,53547,10.0,429,Ulmus americana
+519191,129902,10.0,430,Camponotus pennsylvanicus
+4324,4334,10.0,431,Pelecanus erythrorhynchos
+5179,5206,10.0,432,Buteo lineatus
+143392,143390,10.0,433,Oxidus gracilis
+5303,5305,10.0,434,Haliaeetus leucocephalus
+50299,50298,10.0,435,Fragaria vesca
+56740,56739,10.0,436,Ricinus communis
+55654,55653,10.0,437,Maniola jurtina
+779780,117434,10.0,438,Claytonia virginica
+58504,133631,10.0,439,Polites peckius
+60840,60839,10.0,440,Spilosoma virginica
+52977,56126,10.0,441,Barbarea vulgaris
+204212,204321,10.0,442,Ficaria verna
+48096,48094,10.0,443,Dryocampa rubicunda
+50311,50310,10.0,444,Arisaema triphyllum
+61446,61445,10.0,445,Acanthocephala terminalis
+50392,54064,10.0,446,Polygonia comma
+914083,48625,10.0,447,Oenothera speciosa
+868391,76897,10.0,448,Erigeron annuus
+56062,56061,10.0,449,Alliaria petiolata
+47698,47697,10.0,450,Hesperis matronalis
+51045,51044,10.0,451,Sanguinaria canadensis
+47981,47980,10.0,452,Speyeria cybele
+49592,49591,10.0,453,Lepomis macrochirus
+32049,32055,10.0,454,Elgaria multicarinata
+49541,49540,10.0,455,Gasteracantha cancriformis
+64539,64540,10.0,456,Celastrus orbiculatus
+48245,49868,10.0,457,Aquilegia canadensis
+48498,54797,10.0,458,Gleditsia triacanthos
+53810,53809,10.0,459,Phidippus audax
+50204,50203,10.0,460,Bidens pilosa
+52077,52075,10.0,461,Atalopedes campestris
+888838,55556,10.0,462,Oncopeltus fasciatus
+914077,62207,10.0,463,Oenothera biennis
+4933,4940,10.0,464,Egretta thula
+7427,7428,10.0,465,Bombycilla cedrorum
+47566,52119,10.0,466,Populus deltoides
+54575,54573,10.0,467,Schizophyllum commune
+42054,42069,10.0,468,Vulpes vulpes
+41661,41663,10.0,469,Procyon lotor
+47920,47919,10.0,470,Antheraea polyphemus
+64787,65849,10.0,471,Incilius nebulifer
+51079,51080,10.0,472,Toxicodendron diversilobum
+4784,4793,10.0,473,Charadrius vociferus
+55503,55496,10.0,474,Stereum ostrea
+905,906,10.0,475,Meleagris gallopavo
+48582,56063,10.0,476,Sorbus aucuparia
+52855,52856,10.0,477,Artemisia vulgaris
+61525,61524,10.0,478,Forficula auricularia
+52721,52720,10.0,479,Dactylis glomerata
+52761,56077,10.0,480,Hypericum perforatum
+82577,82576,10.0,481,Onoclea sensibilis
+53408,53405,10.0,482,Heteromeles arbutifolia
+144410,145308,10.0,483,Spinus psaltria
+47917,47916,10.0,484,Actias luna
+52728,52763,10.0,485,Cephalanthus occidentalis
+87634,480298,10.0,486,Cornu aspersum
+49652,55829,10.0,487,Cardamine hirsuta
+50829,82816,10.0,488,Viola sororia
+50334,50333,10.0,489,Lantana camara
+48988,48987,10.0,490,Hippodamia convergens
+50636,58961,10.0,491,Plantago major
+4950,4956,10.0,492,Ardea herodias
+12705,12716,10.0,493,Turdus merula
+5019,5020,10.0,494,Butorides virescens
+538890,120215,10.0,495,Bombus griseocollis
+53327,53326,10.0,496,Vinca major
+564913,564969,10.0,497,Chamaenerion angustifolium
+52483,52482,10.0,498,Episyrphus balteatus
+1045281,56224,10.0,499,Caltha palustris
+967514,47602,10.0,500,Taraxacum officinale
+4263,4265,10.0,501,Phalacrocorax auritus
+48496,1196165,11.0,,Pleurotus ostreatus
+1230244,1125873,11.0,,Ornithogalum umbellatum
+49389,1087592,11.0,,Stellaria media
+52818,1105043,11.0,,Achillea millefolium
+559675,1129535,11.0,,Ganoderma applanatum
+538903,1092510,11.0,,Bombus lucorum
+48596,984576,11.0,,Campanula rotundifolia
+47378,1153556,11.0,,Trametes versicolor
+59649,857190,11.0,,Pantherophis alleghaniensis
+1092877,1092918,12.0,,Lupularia
+790732,790770,13.0,,Trifoliae
+47574,701533,13.0,,Sabina
+48626,914083,13.0,,Hartmannia
+62742,888920,13.0,,Rudbeckia
+56315,947427,13.0,,Micacei
+1072552,1072574,13.0,,Lonicera
+53984,743344,13.0,,Digitalis
+50879,873639,13.0,,Quercifolium
+790730,790765,13.0,,Quinquefoliae
+47589,904149,13.0,,Acaulia
+1230233,1230244,13.0,,Ornithogalum
+1045680,1045692,13.0,,Lanceifolia
+50879,868391,13.0,,Phalacroloma
+52995,779780,13.0,,Claytonia
+790732,790771,13.0,,Pinus
+49869,1045281,13.0,,Caltha
+861029,861033,13.0,,Quercus
+48626,914077,13.0,,Oenothera
+48063,1196640,13.0,,Anagallis
+53152,1092877,13.0,,Spirocarpos
+47603,967514,13.0,,Taraxacum
+964902,964908,13.0,,Ruberta
+1142599,954920,13.0,,Amanita
+861029,861036,13.0,,Lobatae
+52995,779781,13.0,,Limnia
+1072552,1072577,13.0,,Nintooa
+55624,1096177,15.0,,Acronicta
+49568,736941,15.0,,Cicindela
+62781,519191,15.0,,Camponotus
+52775,538903,15.0,,Bombus
+51874,1072552,15.0,,Lonicera
+52756,789375,15.0,,Polistes
+47561,790732,15.0,,Pinus
+51111,571260,15.0,,Xylocopoides
+51611,738332,15.0,,Chamaedrys
+47701,964902,15.0,,Robertium
+48939,1112639,15.0,,Eucycla
+47780,1184311,15.0,,Limniris
+52775,538890,15.0,,Cullumanobombus
+47225,545185,15.0,,Heraclides
+52756,789379,15.0,,Fuscopolistes
+47561,790730,15.0,,Strobus
+47225,545186,15.0,,Pterourus
+47351,483776,15.0,,Padus
+55559,888838,15.0,,Erythrischius
+52775,538902,15.0,,Thoracobombus
+47851,861029,15.0,,Quercus
+48475,559675,15.0,,Elfvingia
+50636,1045680,15.0,,Psyllium
+54010,522624,15.0,,Lycaena
+47220,578086,15.0,,Apis
+54582,549546,15.0,,Mesarion
+54582,549548,15.0,,Arion
+52491,520029,15.0,,Eristalis
+47225,545183,15.0,,Papilio
+51611,738398,15.0,,Pocilla
+130349,49151,15.0,,Agraulis
+56138,1230233,15.0,,Ornithogalum
+48419,1142599,15.0,,Amanita
+52775,538900,15.0,,Pyrobombus
+49554,49555,20.0,,Scutigera
+638567,52756,20.0,,Polistes
+51821,56740,20.0,,Ricinus
+597395,4933,20.0,,Egretta
+916897,47777,20.0,,Ariolimax
+333796,51703,20.0,,Coccinella
+333796,48487,20.0,,Harmonia
+320552,52077,20.0,,Atalopedes
+47852,49203,20.0,,Fagus
+923973,49290,20.0,,Podophyllum
+47925,47977,20.0,,Argia
+902789,52979,20.0,,Capsella
+320201,81688,20.0,,Noctua
+71306,4764,20.0,,Coragyps
+6912,6913,20.0,,Cygnus
+71417,52995,20.0,,Claytonia
+4783,4784,20.0,,Charadrius
+846252,43583,20.0,,Homo
+520010,58753,20.0,,Toxomerus
+52682,52683,20.0,,Pteridium
+345605,51874,20.0,,Lonicera
+1109044,53810,20.0,,Phidippus
+417879,85035,20.0,,Neoscona
+923972,58728,20.0,,Berberis
+11989,9740,20.0,,Agelaius
+910275,131834,20.0,,Otala
+787591,27800,20.0,,Notophthalmus
+83291,83292,20.0,,Zanclus
+7823,8228,20.0,,Cyanocitta
+781703,52689,20.0,,Sambucus
+48218,48217,20.0,,Fucus
+888924,62742,20.0,,Rudbeckia
+746912,56089,20.0,,Robinia
+843658,143392,20.0,,Oxidus
+829419,502884,20.0,,Lissachatina
+47819,50148,20.0,,Celithemis
+746708,48245,20.0,,Aquilegia
+51369,51370,20.0,,Esox
+498534,904332,20.0,,Trichonephila
+902660,56062,20.0,,Alliaria
+71305,9080,20.0,,Cardinalis
+902567,52977,20.0,,Barbarea
+773415,64276,20.0,,Phragmites
+123834,63030,20.0,,Hypercompe
+858333,49465,20.0,,Trillium
+124055,49349,20.0,,Hyles
+17599,792976,20.0,,Dryobates
+4323,4324,20.0,,Pelecanus
+50998,56091,20.0,,Morus
+121038,26154,20.0,,Alligator
+11989,10368,20.0,,Molothrus
+124719,61786,20.0,,Malacosoma
+533443,127187,20.0,,Securigera
+342904,49597,20.0,,Salvelinus
+797520,29033,20.0,,Pituophis
+1070950,81560,20.0,,Epargyreus
+532896,28555,20.0,,Storeria
+1105651,87902,20.0,,Deroceras
+43095,43096,20.0,,Sylvilagus
+35278,35341,20.0,,Iguana
+9079,144410,20.0,,Spinus
+937792,50311,20.0,,Arisaema
+451956,62232,20.0,,Chimaphila
+559248,9175,20.0,,Zonotrichia
+507998,56138,20.0,,Ornithogalum
+134166,58588,20.0,,Asterocampa
+209650,179939,20.0,,Otospermophilus
+559248,9132,20.0,,Spizella
+130316,52924,20.0,,Phyciodes
+47823,67329,20.0,,Pholcus
+797520,59649,20.0,,Pantherophis
+123834,121613,20.0,,Estigmene
+208488,55654,20.0,,Maniola
+1270935,49195,20.0,,Callicarpa
+48809,54796,20.0,,Sassafras
+121991,52483,20.0,,Episyrphus
+324170,48498,20.0,,Gleditsia
+48291,48290,20.0,,Oniscus
+47782,51222,20.0,,Procambarus
+82113,120218,20.0,,Halysidota
+47562,48257,20.0,,Pseudotsuga
+870758,47752,20.0,,Polystichum
+1071364,125670,20.0,,Rumina
+47539,64539,20.0,,Celastrus
+924978,54856,20.0,,Tilia
+202068,49764,20.0,,Anartia
+43791,43792,20.0,,Castor
+797576,30692,20.0,,Crotalus
+980017,17007,20.0,,Sayornis
+82099,55695,20.0,,Tyria
+532896,28339,20.0,,Thamnophis
+1232042,54757,20.0,,Xanthoria
+53581,53580,20.0,,Liriodendron
+134168,47981,20.0,,Speyeria
+746715,204212,20.0,,Ficaria
+955376,172111,20.0,,Bradybaena
+902614,52111,20.0,,Baccharis
+15977,12935,20.0,,Sialia
+859161,48241,20.0,,Erythronium
+723302,53408,20.0,,Heteromeles
+528867,81549,20.0,,Tetraopes
+124078,53554,20.0,,Atteva
+788074,83800,20.0,,Mitchella
+320552,58504,20.0,,Polites
+534850,64009,20.0,,Corbicula
+5562,6315,20.0,,Calypte
+339575,46257,20.0,,Tamiasciurus
+846255,41637,20.0,,Ursus
+47671,48834,20.0,,Pisaster
+475374,82286,20.0,,Automeris
+903187,47698,20.0,,Hesperis
+130314,55559,20.0,,Oncopeltus
+123834,127135,20.0,,Hyphantria
+49588,49595,20.0,,Pomoxis
+47379,895268,20.0,,Cerioporus
+790593,52999,20.0,,Conium
+7423,7427,20.0,,Bombycilla
+906897,47483,20.0,,Helix
+517607,55215,20.0,,Aphis
+889631,55758,20.0,,Chelidonium
+871438,62807,20.0,,Mytilus
+58655,81555,20.0,,Ictalurus
+209650,520586,20.0,,Tamias
+59911,14877,20.0,,Mimus
+918906,55460,20.0,,Lamium
+425997,67761,20.0,,Popillia
+797562,36090,20.0,,Uta
+71434,49661,20.0,,Liquidambar
+69758,81547,20.0,,Lumbricus
+207785,47225,20.0,,Papilio
+522677,122380,20.0,,Cupido
+15977,12705,20.0,,Turdus
+47190,47189,20.0,,Pachygrapsus
+522678,55642,20.0,,Polyommatus
+48495,48496,20.0,,Pleurotus
+82039,48848,20.0,,Lymantria
+122239,122240,20.0,,Porcellio
+1138137,52721,20.0,,Dactylis
+613300,58667,20.0,,Semotilus
+11853,11880,20.0,,Hirundo
+84738,54328,20.0,,Vespa
+797544,39770,20.0,,Chrysemys
+1097068,82009,20.0,,Stagmomantis
+39680,39681,20.0,,Chelydra
+47929,51825,20.0,,Calopteryx
+508722,50249,20.0,,Maianthemum
+47379,127511,20.0,,Fomes
+1256740,54812,20.0,,Rhamnus
+42043,42054,20.0,,Vulpes
+788083,53060,20.0,,Galium
+11989,9599,20.0,,Quiscalus
+47379,47378,20.0,,Trametes
+71349,10246,20.0,,Setophaga
+2715,3000,20.0,,Columba
+82113,67692,20.0,,Lophocampa
+889631,48226,20.0,,Eschscholzia
+840977,53984,20.0,,Digitalis
+54497,54495,20.0,,Juglans
+574159,51111,20.0,,Xylocopa
+48531,48532,20.0,,Tremella
+464228,61257,20.0,,Leptoglossus
+33177,34434,20.0,,Hemidactylus
+919180,55831,20.0,,Glechoma
+47925,50175,20.0,,Enallagma
+980017,16446,20.0,,Pyrocephalus
+71306,4755,20.0,,Cathartes
+936861,56223,20.0,,Tussilago
+134175,50881,20.0,,Limenitis
+48420,60783,20.0,,Pluteus
+334375,62781,20.0,,Camponotus
+56310,56315,20.0,,Coprinellus
+922171,47544,20.0,,Rubus
+47819,51556,20.0,,Sympetrum
+707807,54765,20.0,,Rhus
+47567,47566,20.0,,Populus
+125818,54010,20.0,,Lycaena
+47379,48475,20.0,,Ganoderma
+82113,81678,20.0,,Euchaetes
+783666,68199,20.0,,Larrea
+548591,48539,20.0,,Cytisus
+47819,59775,20.0,,Pachydiplax
+17599,18230,20.0,,Colaptes
+122731,121184,20.0,,Mythimna
+900982,54521,20.0,,Tanacetum
+55502,55503,20.0,,Stereum
+941815,56165,20.0,,Verbascum
+47819,53868,20.0,,Erythemis
+570063,56564,20.0,,Mantis
+119556,58533,20.0,,Colias
+797512,32049,20.0,,Elgaria
+17599,18158,20.0,,Melanerpes
+21359,21360,20.0,,Bufo
+47689,47688,20.0,,Erodium
+2715,2926,20.0,,Streptopelia
+475032,55690,20.0,,Pieris
+58935,58937,20.0,,Lythrum
+512504,57067,20.0,,Melilotus
+528234,81924,20.0,,Halyomorpha
+6912,558404,20.0,,Spatula
+47890,47889,20.0,,Impatiens
+471021,121822,20.0,,Sceliphron
+922173,53438,20.0,,Rosa
+712842,62061,20.0,,Palomena
+6912,6922,20.0,,Anas
+632885,48561,20.0,,Cirsium
+25473,60340,20.0,,Lithobates
+48445,972792,20.0,,Apioperdon
+122465,55624,20.0,,Acronicta
+47778,54582,20.0,,Arion
+723302,51148,20.0,,Crataegus
+7823,7998,20.0,,Corvus
+922113,47351,20.0,,Prunus
+910275,87634,20.0,,Cornu
+597395,5019,20.0,,Butorides
+82042,49031,20.0,,Orgyia
+559248,9091,20.0,,Melospiza
+85868,58562,20.0,,Libytheana
+58599,52593,20.0,,Pararge
+723302,48582,20.0,,Sorbus
+568277,50204,20.0,,Bidens
+55974,118056,20.0,,Fomitopsis
+1094690,54735,20.0,,Parmelia
+134168,68246,20.0,,Euptoieta
+900981,56058,20.0,,Leucanthemum
+797544,39776,20.0,,Trachemys
+417879,52629,20.0,,Araneus
+47819,84550,20.0,,Plathemis
+320552,1081313,20.0,,Lon
+21359,64787,20.0,,Incilius
+797562,36141,20.0,,Sceloporus
+47689,47701,20.0,,Geranium
+121562,61504,20.0,,Ascalapha
+901801,56955,20.0,,Helianthus
+47747,47746,20.0,,Equisetum
+840983,50636,20.0,,Plantago
+900988,52845,20.0,,Matricaria
+790559,51742,20.0,,Aegopodium
+901794,62499,20.0,,Jacobaea
+632701,47603,20.0,,Taraxacum
+791419,49389,20.0,,Stellaria
+993825,53022,20.0,,Convolvulus
+119556,48551,20.0,,Phoebis
+922242,53196,20.0,,Rumex
+918904,56100,20.0,,Ajuga
+795687,56175,20.0,,Echium
+788529,58629,20.0,,Perca
+1043617,56727,20.0,,Daucus
+47194,47193,20.0,,Cornus
+47562,48255,20.0,,Tsuga
+451956,49478,20.0,,Monotropa
+2715,3438,20.0,,Zenaida
+49663,49664,20.0,,Platanus
+48296,48295,20.0,,Armadillidium
+605201,61446,20.0,,Acanthocephala
+125080,47917,20.0,,Actias
+47925,52054,20.0,,Ischnura
+632703,53270,20.0,,Sonchus
+5067,5085,20.0,,Accipiter
+919178,52736,20.0,,Monarda
+919181,52765,20.0,,Prunella
+902567,49652,20.0,,Cardamine
+339575,45994,20.0,,Sciurus
+900983,52855,20.0,,Artemisia
+523474,63523,20.0,,Melanoplus
+50828,50829,20.0,,Viola
+9079,199910,20.0,,Haemorhous
+1118992,35526,20.0,,Podarcis
+901794,53207,20.0,,Senecio
+931408,48439,20.0,,Chenopodium
+960961,49338,20.0,,Encelia
+333796,48988,20.0,,Hippodamia
+52849,55883,20.0,,Hedera
+632700,52914,20.0,,Cichorium
+200152,36362,20.0,,Anolis
+632704,53106,20.0,,Lactuca
+512504,53152,20.0,,Medicago
+47866,55747,20.0,,Misumena
+790594,53095,20.0,,Heracleum
+746715,48230,20.0,,Ranunculus
+850994,48596,20.0,,Campanula
+202066,49921,20.0,,Nymphalis
+972882,50879,20.0,,Erigeron
+47819,47818,20.0,,Libellula
+713354,61525,20.0,,Forficula
+1265661,55564,20.0,,Bellis
+134168,1117856,20.0,,Argynnis
+53548,53549,20.0,,Ulmus
+787700,37763,20.0,,Plestiodon
+559248,10093,20.0,,Junco
+202066,50392,20.0,,Polygonia
+522900,48663,20.0,,Danaus
+55612,55613,20.0,,Pyrrhocoris
+840955,51611,20.0,,Veronica
+48694,48686,20.0,,Typha
+516951,47393,20.0,,Coprinus
+538904,47220,20.0,,Apis
+607661,53912,20.0,,Cyprinus
+597395,4950,20.0,,Ardea
+14841,14842,20.0,,Sturnus
+21359,64747,20.0,,Anaxyrus
+47790,564913,20.0,,Chamaenerion
+533443,47436,20.0,,Lotus
+1239927,61858,20.0,,Lucilia
+202066,54469,20.0,,Aglais
+1150915,47574,20.0,,Juniperus
+13685,13847,20.0,,Passer
+49588,49592,20.0,,Lepomis
+320552,50341,20.0,,Hylephila
+482431,48960,20.0,,Arilus
+51885,51886,20.0,,Urtica
+4637,4638,20.0,,Falco
+54574,54575,20.0,,Schizophyllum
+900988,52818,20.0,,Achillea
+4262,4263,20.0,,Phalacrocorax
+123834,60840,20.0,,Spilosoma
+123834,59676,20.0,,Pyrrharctia
+55485,55486,20.0,,Fuligo
+707807,51079,20.0,,Toxicodendron
+47790,48626,20.0,,Oenothera
+42043,42044,20.0,,Canis
+84738,52912,20.0,,Dolichovespula
+895657,48431,20.0,,Laetiporus
+936164,50334,20.0,,Lantana
+342904,47519,20.0,,Salmo
+632394,53327,20.0,,Vinca
+634950,50641,20.0,,Solanum
+523283,52159,20.0,,Schistocerca
+53855,53854,20.0,,Ilex
+49588,49589,20.0,,Micropterus
+154,472,20.0,,Fulica
+47796,49052,20.0,,Anthopleura
+202066,48507,20.0,,Vanessa
+345608,53030,20.0,,Dipsacus
+790633,47780,20.0,,Iris
+211065,47589,20.0,,Cypripedium
+200958,71725,20.0,,Pandion
+57279,57280,20.0,,Ailanthus
+556743,50791,20.0,,Linaria
+461899,55488,20.0,,Diabrotica
+47394,56536,20.0,,Chlorophyllum
+512504,51876,20.0,,Trifolium
+6912,7086,20.0,,Branta
+558819,51900,20.0,,Hypochaeris
+47852,47851,20.0,,Quercus
+447155,4343,20.0,,Larus
+635184,51769,20.0,,Gaillardia
+47562,47561,20.0,,Pinus
+791475,52195,20.0,,Silene
+122457,82202,20.0,,Hypena
+922210,48939,20.0,,Eriogonum
+1043615,52847,20.0,,Anthriscus
+791932,48063,20.0,,Lysimachia
+125080,47920,20.0,,Antheraea
+975959,50299,20.0,,Fragaria
+1149497,48419,20.0,,Amanita
+522893,49975,20.0,,Battus
+13547,13548,20.0,,Parus
+1097119,71035,20.0,,Tenodera
+48445,48444,20.0,,Lycoperdon
+48600,48601,20.0,,Phytolacca
+202224,48506,20.0,,Junonia
+922240,379255,20.0,,Reynoutria
+604091,72030,20.0,,Campsis
+134173,130349,20.0,,Dione
+910283,48587,20.0,,Cepaea
+342904,47522,20.0,,Oncorhynchus
+746816,48801,20.0,,Cercis
+1004909,49541,20.0,,Gasteracantha
+41660,41661,20.0,,Procyon
+633087,52472,20.0,,Vicia
+933175,62472,20.0,,Limax
+597395,4979,20.0,,Nycticorax
+50279,50280,20.0,,Parthenocissus
+48768,48769,20.0,,Hypholoma
+13547,144351,20.0,,Poecile
+373919,49568,20.0,,Cicindela
+858902,52761,20.0,,Hypericum
+5067,5179,20.0,,Buteo
+787551,27135,20.0,,Plethodon
+58321,47727,20.0,,Acer
+975960,53186,20.0,,Potentilla
+475032,59122,20.0,,Pontia
+51469,51468,20.0,,Anax
+6912,7105,20.0,,Aix
+1004912,47552,20.0,,Argiope
+5067,5303,20.0,,Haliaeetus
+706195,48533,20.0,,Symplocarpus
+47819,59777,20.0,,Perithemis
+125085,48096,20.0,,Dryocampa
+846338,42646,20.0,,Didelphis
+712842,119607,20.0,,Chinavia
+889631,51045,20.0,,Sanguinaria
+746720,49869,20.0,,Caltha
+1094690,117951,20.0,,Flavoparmelia
+901066,64116,20.0,,Ageratina
+574,905,20.0,,Meleagris
+522886,50940,20.0,,Strymon
+529314,62463,20.0,,Rhagonycha
+846324,42219,20.0,,Odocoileus
+125085,81591,20.0,,Eacles
+532896,29299,20.0,,Nerodia
+470233,54451,20.0,,Carnegiea
+538883,52775,20.0,,Bombus
+632069,47906,20.0,,Asclepias
+788516,59117,20.0,,Gambusia
+64686,82577,20.0,,Onoclea
+777272,52728,20.0,,Cephalanthus
+520020,52491,20.0,,Eristalis
+632795,635184,24.0,,Gaillardiinae
+632307,632069,24.0,,Asclepiadinae
+605446,888924,24.0,,Rudbeckiinae
+359450,558819,24.0,,Hypochaeridinae
+373639,517607,24.0,,Aphidina
+373844,900981,24.0,,Leucantheminae
+125836,522886,24.0,,Eumaeina
+373844,900988,24.0,,Matricariinae
+923971,923973,24.0,,Epimediinae
+605446,901801,24.0,,Helianthinae
+918917,919180,24.0,,Nepetinae
+373661,373919,24.0,,Cicindelina
+1097067,1097119,24.0,,Tenoderina
+461542,902614,24.0,,Baccharidinae
+49974,522893,24.0,,Battina
+885411,975959,24.0,,Fragariinae
+82089,82099,24.0,,Callimorphina
+790591,1043615,24.0,,Scandicinae
+125833,522677,24.0,,Everina
+58598,58599,24.0,,Lethina
+632390,632394,24.0,,Vincinae
+712034,1109044,24.0,,Dendryphantina
+58598,208488,24.0,,Maniolina
+605446,960961,24.0,,Enceliinae
+321384,475032,24.0,,Pierina
+552962,1138137,24.0,,Dactylidinae
+124065,124055,24.0,,Choerocampina
+364082,520020,24.0,,Eristalina
+359450,632703,24.0,,Hyoseridinae
+82089,82113,24.0,,Phaegopterina
+373844,900983,24.0,,Artemisiinae
+918917,919178,24.0,,Menthinae
+885411,975960,24.0,,Potentillinae
+923971,923972,24.0,,Berberidinae
+359450,632704,24.0,,Lactucinae
+790591,1043617,24.0,,Daucinae
+568270,936861,24.0,,Tussilagininae
+359450,632701,24.0,,Crepidinae
+632883,632885,24.0,,Carduinae
+918917,919181,24.0,,Prunellinae
+117747,320201,24.0,,Noctuina
+125833,522678,24.0,,Polyommatina
+568270,901794,24.0,,Senecioninae
+153419,901066,24.0,,Oxylobinae
+359450,632700,24.0,,Cichoriinae
+461542,972882,24.0,,Conyzinae
+461542,1265661,24.0,,Bellidinae
+134169,522900,24.0,,Danaina
+922238,922240,24.0,,Reynoutriinae
+82089,123834,24.0,,Spilosomina
+373841,461899,24.0,,Diabroticina
+373844,900982,24.0,,Anthemidinae
+326181,364082,25.0,,Eristalini
+415343,922173,25.0,,Roseae
+507502,512504,25.0,,Trifolieae
+922206,922242,25.0,,Rumiceae
+922206,922238,25.0,,Polygoneae
+507502,548591,25.0,,Genisteae
+50638,840983,25.0,,Plantagineae
+791473,791475,25.0,,Sileneae
+918903,918906,25.0,,Lamieae
+49464,858333,25.0,,Parideae
+49041,1256740,25.0,,Rhamneae
+470913,471021,25.0,,Sceliphrini
+373579,632307,25.0,,Asclepiadeae
+51276,528234,25.0,,Cappaeini
+467650,937792,25.0,,Arisaemateae
+186841,520010,25.0,,Toxomerini
+460758,529314,25.0,,Cantharini
+606933,712034,25.0,,Dendryphantini
+790553,790593,25.0,,Smyrnieae
+47204,902660,25.0,,Thlaspideae
+202067,202068,25.0,,Victorinini
+47204,903187,25.0,,Hesperideae
+773413,773415,25.0,,Molinieae
+487323,632390,25.0,,Vinceae
+906896,910275,25.0,,Otalini
+320509,1070950,25.0,,Eudamini
+50638,840977,25.0,,Digitalideae
+50265,528867,25.0,,Tetraopini
+125084,475374,25.0,,Hemileucini
+125830,125836,25.0,,Eumaeini
+746804,746816,25.0,,Cercideae
+788064,788074,25.0,,Mitchelleae
+60854,134173,25.0,,Heliconiini
+50638,840955,25.0,,Veroniceae
+119895,373661,25.0,,Cicindelini
+846185,846324,25.0,,Odocoileini
+906896,906897,25.0,,Helicini
+922207,922210,25.0,,Eriogoneae
+125835,125818,25.0,,Lycaenini
+194066,373639,25.0,,Aphidini
+122493,320552,25.0,,Hesperiini
+47204,902789,25.0,,Camelineae
+49973,49974,25.0,,Troidini
+124126,125080,25.0,,Saturniini
+790617,790633,25.0,,Irideae
+507502,533443,25.0,,Loteae
+245843,373841,25.0,,Luperini
+201654,632883,25.0,,Cardueae
+570070,1097068,25.0,,Stagmomantini
+746709,746720,25.0,,Caltheae
+507502,746912,25.0,,Robinieae
+319231,464228,25.0,,Anisoscelini
+846215,846338,25.0,,Didelphini
+790553,790559,25.0,,Careae
+130397,1239927,25.0,,Luciliini
+124919,124719,25.0,,Lasiocampini
+50638,556743,25.0,,Antirrhineae
+632790,461542,25.0,,Astereae
+922110,723302,25.0,,Maleae
+49194,936164,25.0,,Lantaneae
+906896,910283,25.0,,Allognathini
+209720,321384,25.0,,Pierini
+58558,125833,25.0,,Polyommatini
+118249,1149497,25.0,,Amaniteae
+859160,859161,25.0,,Lilieae
+337688,523283,25.0,,Cyrtacanthacridini
+922110,922113,25.0,,Amygdaleae
+48847,82042,25.0,,Orgyiini
+790553,790591,25.0,,Scandiceae
+634936,634950,25.0,,Solaneae
+415343,885411,25.0,,Potentilleae
+202067,202224,25.0,,Junoniini
+632790,568277,25.0,,Coreopsideae
+71412,858902,25.0,,Hypericeae
+343248,638567,25.0,,Polistini
+1096984,1097067,25.0,,Tenoderini
+122426,121562,25.0,,Thermesiini
+790553,790594,25.0,,Tordylieae
+186841,121991,25.0,,Syrphini
+795681,795687,25.0,,Lithospermeae
+122224,117747,25.0,,Noctuini
+244834,334375,25.0,,Camponotini
+47204,902567,25.0,,Cardamineae
+124071,124065,25.0,,Macroglossini
+781333,955376,25.0,,Bradybaenini
+507502,633087,25.0,,Fabeae
+332614,339575,25.0,,Sciurini
+514989,552962,25.0,,Poeae
+122224,122731,25.0,,Leucaniini
+333790,333796,25.0,,Coccinellini
+202067,202066,25.0,,Nymphalini
+48377,604091,25.0,,Tecomeae
+335455,470233,25.0,,Pachycereae
+518889,931408,25.0,,Chenopodieae
+746709,746715,25.0,,Ranunculeae
+134171,134175,25.0,,Limenitidini
+199939,538904,25.0,,Apini
+520502,918917,25.0,,Mentheae
+48847,82039,25.0,,Lymantriini
+791418,791419,25.0,,Alsineae
+320199,482431,25.0,,Harpactorini
+58597,58598,25.0,,Satyrini
+923936,923971,25.0,,Berberideae
+49973,207785,25.0,,Papilionini
+415343,922171,25.0,,Rubeae
+47606,82089,25.0,,Arctiini
+244505,574159,25.0,,Xylocopini
+52345,993825,25.0,,Convolvuleae
+632790,373844,25.0,,Anthemideae
+788064,788083,25.0,,Rubieae
+199939,538883,25.0,,Bombini
+328102,523474,25.0,,Melanoplini
+632790,153419,25.0,,Eupatorieae
+840566,843658,25.0,,Sulciferini
+447425,359450,25.0,,Cichorieae
+339572,209650,25.0,,Marmotini
+47151,941815,25.0,,Scrophularieae
+632790,605446,25.0,,Heliantheae
+632790,568270,25.0,,Senecioneae
+60854,134168,25.0,,Argynnini
+61244,134169,25.0,,Danaini
+51276,712842,25.0,,Nezarini
+202067,130316,25.0,,Melitaeini
+319231,605201,25.0,,Acanthocephalini
+632790,632795,25.0,,Helenieae
+48857,425997,25.0,,Anomalini
+788062,777272,25.0,,Naucleeae
+59116,788516,27.0,,Poeciliinae
+47221,199939,27.0,,Apinae
+42158,846185,27.0,,Capreolinae
+30667,797576,27.0,,Crotalinae
+47535,498534,27.0,,Nephilinae
+35360,1118992,27.0,,Lacertinae
+47922,58597,27.0,,Satyrinae
+61860,130397,27.0,,Calliphorinae
+52747,84738,27.0,,Vespinae
+26504,797520,27.0,,Colubrinae
+47535,1004909,27.0,,Gasteracanthinae
+48797,924978,27.0,,Tilioideae
+68421,829419,27.0,,Achatininae
+629866,916897,27.0,,Ariolimacinae
+48158,788529,27.0,,Percinae
+47918,125084,27.0,,Hemileucinae
+52932,460758,27.0,,Cantharinae
+26909,787551,27.0,,Plethodontinae
+52381,194066,27.0,,Aphidinae
+85654,781333,27.0,,Bradybaeninae
+47918,125085,27.0,,Ceratocampinae
+132949,840566,27.0,,Paradoxosomatinae
+47922,85868,27.0,,Libytheinae
+31888,797512,27.0,,Gerrhonotinae
+47223,49973,27.0,,Papilioninae
+48536,706195,27.0,,Orontioideae
+47922,134166,27.0,,Apaturinae
+68421,1071364,27.0,,Rumininae
+121850,47606,27.0,,Arctiinae
+49609,613300,27.0,,Leuciscinae
+48508,119556,27.0,,Coliadinae
+48040,850994,27.0,,Campanuloideae
+47122,746804,27.0,,Cercidoideae
+48111,570070,27.0,,Stagmomantinae
+56584,124919,27.0,,Lasiocampinae
+47332,889631,27.0,,Papaveroideae
+55558,130314,27.0,,Lygaeinae
+47961,50265,27.0,,Lamiinae
+47434,773413,27.0,,Arundinoideae
+47122,324170,27.0,,Caesalpinioideae
+47923,125835,27.0,,Lycaeninae
+47903,335455,27.0,,Cactoideae
+47599,507998,27.0,,Scilloideae
+51777,319231,27.0,,Coreinae
+47484,906896,27.0,,Helicinae
+49995,326181,27.0,,Eristalinae
+48111,570063,27.0,,Mantinae
+47599,508722,27.0,,Nolinoideae
+48508,209720,27.0,,Pierinae
+48742,470913,27.0,,Sceliphrinae
+68207,783666,27.0,,Larreoideae
+48670,122465,27.0,,Acronictinae
+47923,58558,27.0,,Polyommatinae
+48699,790553,27.0,,Apioideae
+48623,918903,27.0,,Lamioideae
+26504,532896,27.0,,Natricinae
+47649,337688,27.0,,Cyrtacanthacridinae
+48527,345608,27.0,,Dipsacoideae
+47520,342904,27.0,,Salmoninae
+48516,634936,27.0,,Solanoideae
+48139,606933,27.0,,Salticinae
+4929,597395,27.0,,Ardeinae
+47653,320509,27.0,,Eudaminae
+39760,797544,27.0,,Deirochelyinae
+48064,791932,27.0,,Myrsinoideae
+48623,918904,27.0,,Ajugoideae
+50600,871438,27.0,,Mytilinae
+47781,790617,27.0,,Iridoideae
+48111,1096984,27.0,,Tenoderinae
+27701,787591,27.0,,Pleurodelinae
+48567,791473,27.0,,Caryophylloideae
+47221,244505,27.0,,Xylocopinae
+4342,447155,27.0,,Larinae
+47362,487323,27.0,,Rauvolfioideae
+47336,244834,27.0,,Formicinae
+47213,124071,27.0,,Macroglossinae
+36074,797562,27.0,,Sceloporinae
+48201,48857,27.0,,Rutelinae
+47434,514989,27.0,,Pooideae
+47742,51276,27.0,,Pentatominae
+47918,124126,27.0,,Saturniinae
+47653,122493,27.0,,Hesperiinae
+47649,328102,27.0,,Melanoplinae
+45933,332614,27.0,,Sciurinae
+48382,922207,27.0,,Eriogonoideae
+52327,518889,27.0,,Chenopodioideae
+121850,122426,27.0,,Erebinae
+47753,870758,27.0,,Dryopteridoideae
+121850,122457,27.0,,Hypeninae
+48527,345605,27.0,,Caprifolioideae
+47922,61244,27.0,,Danainae
+36982,787700,27.0,,Scincinae
+47122,507502,27.0,,Faboideae
+54321,1094690,27.0,,Parmelioideae
+47535,1004912,27.0,,Argiopinae
+121850,48847,27.0,,Lymantriinae
+47922,202067,27.0,,Nymphalinae
+48567,791418,27.0,,Alsinoideae
+47693,788064,27.0,,Rubioideae
+48874,707807,27.0,,Anacardioideae
+49289,923936,27.0,,Berberidoideae
+47148,922110,27.0,,Amygdaloideae
+47923,125830,27.0,,Theclinae
+49528,713354,27.0,,Forficulinae
+47535,417879,27.0,,Araneinae
+47328,859160,27.0,,Lilioideae
+47362,373579,27.0,,Asclepiadoideae
+47148,415343,27.0,,Rosoideae
+49995,186841,27.0,,Syrphinae
+47604,632790,27.0,,Asteroideae
+47604,447425,27.0,,Cichorioideae
+48536,467650,27.0,,Aroideae
+48623,520502,27.0,,Nepetoideae
+48670,122224,27.0,,Noctuinae
+51146,245843,27.0,,Galerucinae
+47217,211065,27.0,,Cypripedioideae
+47374,1150915,27.0,,Cupressoideae
+48486,333790,27.0,,Coccinellinae
+41636,846255,27.0,,Ursinae
+49609,607661,27.0,,Cyprininae
+62471,933175,27.0,,Limacinae
+43575,846252,27.0,,Homininae
+48959,320199,27.0,,Harpactorinae
+45933,339572,27.0,,Xerinae
+47604,201654,27.0,,Carduoideae
+133387,451956,27.0,,Monotropoideae
+322379,1105651,27.0,,Agriolimacinae
+48382,922206,27.0,,Polygonoideae
+49567,119895,27.0,,Cicindelinae
+48231,746709,27.0,,Ranunculoideae
+52747,343248,27.0,,Polistinae
+47922,134171,27.0,,Limenitidinae
+48150,795681,27.0,,Boraginoideae
+47922,60854,27.0,,Heliconiinae
+42541,846215,27.0,,Didelphinae
+54756,1232042,27.0,,Xanthorioideae
+48623,1270935,27.0,,Callicarpoideae
+48231,746708,27.0,,Thalictroideae
+47693,788062,27.0,,Cinchonoideae
+534851,534850,30.0,,Cyrenidae
+26718,26909,30.0,,Plethodontidae
+47224,47922,30.0,,Nymphalidae
+50898,53581,30.0,,Magnoliaceae
+48700,48699,30.0,,Apiaceae
+47729,48874,30.0,,Anacardiaceae
+129411,45933,30.0,,Sciuridae
+52380,52381,30.0,,Aphididae
+68625,47484,30.0,,Helicidae
+559244,71306,30.0,,Cathartidae
+47224,47653,30.0,,Hesperiidae
+49216,49609,30.0,,Cyprinidae
+1097016,48111,30.0,,Mantidae
+48232,49289,30.0,,Berberidaceae
+7251,13685,30.0,,Passeridae
+424850,42158,30.0,,Cervidae
+47375,47374,30.0,,Cupressaceae
+47207,52932,30.0,,Cantharidae
+48740,52747,30.0,,Vespidae
+47607,121850,30.0,,Erebidae
+47380,895657,30.0,,Laetiporaceae
+48526,781703,30.0,,Viburnaceae
+85552,35278,30.0,,Iguanidae
+870764,43791,30.0,,Castoridae
+47366,71417,30.0,,Montiaceae
+41573,41660,30.0,,Procyonidae
+1224540,64686,30.0,,Onocleaceae
+49553,49554,30.0,,Scutigeridae
+26039,121038,30.0,,Alligatoridae
+49333,59116,30.0,,Poeciliidae
+47233,83291,30.0,,Zanclidae
+487049,629866,30.0,,Ariolimacidae
+47783,47782,30.0,,Cambaridae
+343798,48291,30.0,,Oniscidae
+67566,4323,30.0,,Pelecanidae
+7251,7423,30.0,,Bombycillidae
+54755,54756,30.0,,Teloschistaceae
+47191,47190,30.0,,Grapsidae
+7251,13547,30.0,,Paridae
+775840,50600,30.0,,Mytilidae
+781368,68421,30.0,,Achatinidae
+813994,47796,30.0,,Actiniidae
+7251,59911,30.0,,Mimidae
+71289,71434,30.0,,Altingiaceae
+47224,47223,30.0,,Papilionidae
+43094,43095,30.0,,Leporidae
+47729,57279,30.0,,Simaroubaceae
+372884,49567,30.0,,Carabidae
+53552,124078,30.0,,Attevidae
+487049,47778,30.0,,Arionidae
+343798,122239,30.0,,Porcellionidae
+56583,56584,30.0,,Lasiocampidae
+426081,47925,30.0,,Coenagrionidae
+47853,54497,30.0,,Juglandaceae
+71261,200958,30.0,,Pandionidae
+48530,48531,30.0,,Tremellaceae
+630955,47221,30.0,,Apidae
+48151,49194,30.0,,Verbenaceae
+963992,47961,30.0,,Cerambycidae
+512198,322379,30.0,,Agriolimacidae
+47218,47599,30.0,,Asparagaceae
+85552,36982,30.0,,Scincidae
+6888,6912,30.0,,Anatidae
+48515,52345,30.0,,Convolvulaceae
+7251,9079,30.0,,Fringillidae
+20979,21359,30.0,,Bufonidae
+85553,26504,30.0,,Colubridae
+367200,48139,30.0,,Salticidae
+71268,4262,30.0,,Phalacrocoracidae
+48808,48809,30.0,,Lauraceae
+47366,47903,30.0,,Cactaceae
+47218,47217,30.0,,Orchidaceae
+47791,58935,30.0,,Lythraceae
+67573,5562,30.0,,Trochilidae
+71291,50279,30.0,,Vitaceae
+48796,48797,30.0,,Malvaceae
+785517,48445,30.0,,Lycoperdaceae
+47181,47890,30.0,,Balsaminaceae
+471714,48486,30.0,,Coccinellidae
+367176,47866,30.0,,Thomisidae
+176269,51146,30.0,,Chrysomelidae
+7251,7823,30.0,,Corvidae
+47521,47520,30.0,,Salmonidae
+48515,48516,30.0,,Solanaceae
+785522,118249,30.0,,Amanitaceae
+47366,48567,30.0,,Caryophyllaceae
+371057,33177,30.0,,Gekkonidae
+785517,47394,30.0,,Agaricaceae
+7251,559248,30.0,,Passerellidae
+7251,71305,30.0,,Cardinalidae
+48219,48218,30.0,,Fucaceae
+47132,50998,30.0,,Moraceae
+67566,4929,30.0,,Ardeidae
+47605,47604,30.0,,Asteraceae
+1224539,52682,30.0,,Dennstaedtiaceae
+71261,5067,30.0,,Accipitridae
+51820,71412,30.0,,Hypericaceae
+48341,55502,30.0,,Stereaceae
+47162,48694,30.0,,Typhaceae
+367163,47823,30.0,,Pholcidae
+47222,48742,30.0,,Sphecidae
+26718,27701,30.0,,Salamandridae
+523723,48150,30.0,,Boraginaceae
+47650,47649,30.0,,Acrididae
+47366,48382,30.0,,Polygonaceae
+47748,47747,30.0,,Equisetaceae
+414448,49995,30.0,,Syrphidae
+48151,48377,30.0,,Bignoniaceae
+7251,980017,30.0,,Tyrannidae
+1036675,43575,30.0,,Hominidae
+20979,25473,30.0,,Ranidae
+68220,68207,30.0,,Zygophyllaceae
+47380,55974,30.0,,Fomitopsidaceae
+841312,132949,30.0,,Paradoxosomatidae
+47233,48158,30.0,,Percidae
+47363,47693,30.0,,Rubiaceae
+47329,49464,30.0,,Melanthiaceae
+785517,56310,30.0,,Psathyrellaceae
+47195,47194,30.0,,Cornaceae
+47214,47213,30.0,,Sphingidae
+85552,36074,30.0,,Phrynosomatidae
+47729,58321,30.0,,Sapindaceae
+48151,50638,30.0,,Plantaginaceae
+47743,47742,30.0,,Pentatomidae
+64516,49663,30.0,,Platanaceae
+343798,48296,30.0,,Armadillidiidae
+48700,52849,30.0,,Araliaceae
+7251,11989,30.0,,Icteridae
+51820,50828,30.0,,Violaceae
+51776,51777,30.0,,Coreidae
+47214,47918,30.0,,Saturniidae
+85552,35360,30.0,,Lacertidae
+48526,48527,30.0,,Caprifoliaceae
+47224,47923,30.0,,Lycaenidae
+85552,200152,30.0,,Dactyloidae
+466233,55558,30.0,,Lygaeidae
+48232,48231,30.0,,Ranunculaceae
+713337,49528,30.0,,Forficulidae
+47132,53548,30.0,,Ulmaceae
+48327,54321,30.0,,Parmeliaceae
+47162,47434,30.0,,Poaceae
+51820,47567,30.0,,Salicaceae
+47928,47929,30.0,,Calopterygidae
+47233,49588,30.0,,Centrarchidae
+47132,51885,30.0,,Urticaceae
+573,574,30.0,,Phasianidae
+67561,4342,30.0,,Laridae
+47605,48040,30.0,,Campanulaceae
+905658,54574,30.0,,Schizophyllaceae
+67570,4637,30.0,,Falconidae
+47672,47671,30.0,,Asteriidae
+55484,55485,30.0,,Physaraceae
+47366,48600,30.0,,Phytolaccaceae
+41573,42043,30.0,,Canidae
+7251,15977,30.0,,Turdidae
+47690,47689,30.0,,Geraniaceae
+47927,51469,30.0,,Aeshnidae
+39532,39680,30.0,,Chelydridae
+47366,52327,30.0,,Amaranthaceae
+47375,47562,30.0,,Pinaceae
+48073,48536,30.0,,Araceae
+48202,48201,30.0,,Scarabaeidae
+71272,53855,30.0,,Aquifoliaceae
+905657,48495,30.0,,Pleurotaceae
+7251,71349,30.0,,Parulidae
+7251,11853,30.0,,Hirundinidae
+71275,47204,30.0,,Brassicaceae
+47540,47539,30.0,,Celastraceae
+7251,14841,30.0,,Sturnidae
+47218,47781,30.0,,Iridaceae
+47607,48670,30.0,,Noctuidae
+1269340,47336,30.0,,Formicidae
+51820,51821,30.0,,Euphorbiaceae
+49175,58655,30.0,,Ictaluridae
+47132,49041,30.0,,Rhamnaceae
+41573,41636,30.0,,Ursidae
+48232,47332,30.0,,Papaveraceae
+68625,85654,30.0,,Camaenidae
+47132,47148,30.0,,Rosaceae
+47181,133387,30.0,,Ericaceae
+47123,47122,30.0,,Fabaceae
+785517,48768,30.0,,Strophariaceae
+961001,47753,30.0,,Dryopteridaceae
+133754,48959,30.0,,Reduviidae
+69755,69758,30.0,,Lumbricidae
+52983,55612,30.0,,Pyrrhocoridae
+85552,31888,30.0,,Anguidae
+47853,47852,30.0,,Fagaceae
+319384,47535,30.0,,Araneidae
+785522,48420,30.0,,Pluteaceae
+67561,4783,30.0,,Charadriidae
+356157,61860,30.0,,Calliphoridae
+2708,2715,30.0,,Columbidae
+785517,516951,30.0,,Coprinaceae
+39532,39760,30.0,,Emydidae
+48151,48623,30.0,,Lamiaceae
+85553,30667,30.0,,Viperidae
+512198,62471,30.0,,Limacidae
+47224,48508,30.0,,Pieridae
+48151,47151,30.0,,Scrophulariaceae
+47380,47379,30.0,,Polyporaceae
+4,154,30.0,,Rallidae
+47181,48064,30.0,,Primulaceae
+47363,47362,30.0,,Apocynaceae
+47329,47328,30.0,,Liliaceae
+47791,47790,30.0,,Onagraceae
+51368,51369,30.0,,Esocidae
+17550,17599,30.0,,Picidae
+42540,42541,30.0,,Didelphidae
+47927,47819,30.0,,Libellulidae
+47222,630955,32.0,,Anthophila
+702480,48202,33.0,,Scarabaeoidea
+901813,52380,33.0,,Aphidoidea
+311310,47783,33.0,,Astacoidea
+47157,47607,33.0,,Noctuoidea
+342614,367200,33.0,,Salticoidea
+813978,813994,33.0,,Actinioidea
+50586,534851,33.0,,Cyrenoidea
+1097013,1097016,33.0,,Mantoidea
+706188,47191,33.0,,Grapsoidea
+47157,56583,33.0,,Lasiocampoidea
+372868,466233,33.0,,Lygaeoidea
+372852,963992,33.0,,Cerambycoidea
+781352,68625,33.0,,Helicoidea
+342614,319384,33.0,,Araneoidea
+372854,47207,33.0,,Elateroidea
+700600,47650,33.0,,Acridoidea
+372852,471714,33.0,,Coccinelloidea
+781350,487049,33.0,,Arionoidea
+326777,48740,33.0,,Vespoidea
+47157,47224,33.0,,Papilionoidea
+367158,367163,33.0,,Pholcoidea
+781353,512198,33.0,,Limacoidea
+936369,1036675,33.0,,Hominoidea
+372868,47743,33.0,,Pentatomoidea
+326777,1269340,33.0,,Formicoidea
+372868,51776,33.0,,Coreoidea
+372868,52983,33.0,,Pyrrhocoroidea
+47928,426081,33.0,,Coenagrionoidea
+949881,713337,33.0,,Forficuloidea
+47157,53552,33.0,,Yponomeutoidea
+342767,356157,33.0,,Oestroidea
+372850,133754,33.0,,Reduvioidea
+781366,781368,33.0,,Achatinoidea
+372852,176269,33.0,,Chrysomeloidea
+775839,775840,33.0,,Mytiloidea
+47157,47214,33.0,,Bombycoidea
+326777,47222,33.0,,Apoidea
+340471,372884,33.0,,Caraboidea
+342614,367176,33.0,,Thomisoidea
+48089,342767,33.5,,Calyptratae
+706185,706188,33.5,,Thoracotremata
+372853,414448,34.0,,Aschiza
+343783,343798,34.0,,Crinocheta
+121639,706185,34.0,,Eubrachyura
+372853,48089,34.0,,Schizophora
+713335,949881,34.5,,Eteodermaptera
+936377,936369,34.5,,Catarrhini
+124417,326777,35.0,,Aculeata
+118451,121639,35.0,,Brachyura
+713334,713335,35.0,,Epidermaptera
+118451,311310,35.0,,Astacidea
+71130,372854,35.0,,Elateriformia
+120474,367158,35.0,,Haplogynae
+61267,372850,35.0,,Cimicomorpha
+334037,901813,35.0,,Aphidomorpha
+781349,781352,35.0,,Helicoidei
+1097011,1097013,35.0,,Schizomantodea
+781349,781350,35.0,,Arionoidei
+85552,371057,35.0,,Gekkota
+71130,702480,35.0,,Scarabaeiformia
+786045,936377,35.0,,Simiiformes
+781349,781353,35.0,,Limacoidei
+84718,343783,35.0,,Holoverticata
+71130,372852,35.0,,Cucujiformia
+67688,700600,35.0,,Acrididea
+61267,372868,35.0,,Pentatomomorpha
+120474,342614,35.0,,Entelegynae
+48091,372853,35.0,,Cyclorrhapha
+43698,129411,37.0,,Sciuromorpha
+47208,340471,37.0,,Adephaga
+152870,424850,37.0,,Ruminantia
+47744,61267,37.0,,Heteroptera
+47485,781366,37.0,,Achatinina
+43698,870764,37.0,,Castorimorpha
+47793,713334,37.0,,Neodermaptera
+47167,785522,37.0,,Pluteineae
+47167,905657,37.0,,Pleurotineae
+47797,813978,37.0,,Enthemonae
+47754,1224540,37.0,,Aspleniinae
+47167,785517,37.0,,Agaricineae
+47485,781349,37.0,,Helicina
+47167,905658,37.0,,Schizophyllineae
+48112,1097011,37.0,,Eumantodea
+47651,67688,37.0,,Caelifera
+47754,1224539,37.0,,Dennstaedtiineae
+47118,120474,37.0,,Araneomorphae
+43367,786045,37.0,,Haplorhini
+47208,71130,37.0,,Polyphaga
+47186,118451,37.0,,Pleocyemata
+47744,334037,37.0,,Sternorrhyncha
+47792,47928,37.0,,Zygoptera
+26172,85552,37.0,,Sauria
+47201,124417,37.0,,Apocrita
+47822,48091,37.0,,Brachycera
+48147,84718,37.0,,Oniscidea
+47754,961001,37.0,,Polypodiineae
+26172,85553,37.0,,Serpentes
+47734,841312,37.0,,Strongylosomatidea
+47792,47927,37.0,,Anisoptera
+20978,20979,40.0,,Anura
+184884,47822,40.0,,Diptera
+184884,47201,40.0,,Hymenoptera
+83737,48530,40.0,,Tremellales
+47124,68220,40.0,,Zygophyllales
+372784,47734,40.0,,Polydesmida
+26036,26039,40.0,,Crocodylia
+47124,47181,40.0,,Ericales
+184884,47157,40.0,,Lepidoptera
+3,6888,40.0,,Anseriformes
+20978,26718,40.0,,Caudata
+848324,152870,40.0,,Artiodactyla
+47124,48515,40.0,,Solanales
+47124,47123,40.0,,Fabales
+49556,49553,40.0,,Scutigeromorpha
+372769,775839,40.0,,Mytilida
+764793,47748,40.0,,Equisetales
+47124,71272,40.0,,Aquifoliales
+333586,69755,40.0,,Haplotaxida
+952186,54755,40.0,,Teloschistales
+1267990,48219,40.0,,Fucales
+26036,39532,40.0,,Testudines
+47124,50898,40.0,,Magnoliales
+184884,47793,40.0,,Dermaptera
+184884,48112,40.0,,Mantodea
+3,67573,40.0,,Caprimulgiformes
+47124,48808,40.0,,Laurales
+47163,48073,40.0,,Alismatales
+47124,71291,40.0,,Vitales
+47178,49333,40.0,,Cyprinodontiformes
+136329,47375,40.0,,Pinales
+47178,47521,40.0,,Salmoniformes
+47124,47605,40.0,,Asterales
+47124,48700,40.0,,Apiales
+47124,71275,40.0,,Brassicales
+47124,47540,40.0,,Celastrales
+47119,47118,40.0,,Araneae
+184884,47208,40.0,,Coleoptera
+764796,47754,40.0,,Polypodiales
+47124,523723,40.0,,Boraginales
+3,7251,40.0,,Passeriformes
+47124,47195,40.0,,Cornales
+47124,71289,40.0,,Saxifragales
+3,17550,40.0,,Piciformes
+47124,47366,40.0,,Caryophyllales
+144114,48147,40.0,,Isopoda
+3,2708,40.0,,Columbiformes
+184884,47651,40.0,,Orthoptera
+848324,41573,40.0,,Carnivora
+47124,47132,40.0,,Rosales
+47124,47853,40.0,,Fagales
+47124,48232,40.0,,Ranunculales
+848323,43698,40.0,,Rodentia
+184884,47792,40.0,,Odonata
+47124,64516,40.0,,Proteales
+26036,26172,40.0,,Squamata
+202756,47797,40.0,,Actiniaria
+47178,47233,40.0,,Perciformes
+775812,47485,40.0,,Stylommatophora
+3,67570,40.0,,Falconiformes
+3,71268,40.0,,Suliformes
+3,573,40.0,,Galliformes
+533697,47672,40.0,,Forcipulatida
+47684,55484,40.0,,Physarales
+551317,50586,40.0,,Venerida
+47124,47690,40.0,,Geraniales
+47124,47791,40.0,,Myrtales
+848323,43094,40.0,,Lagomorpha
+3,71261,40.0,,Accipitriformes
+3,559244,40.0,,Cathartiformes
+3,4,40.0,,Gruiformes
+47178,49216,40.0,,Cypriniformes
+47124,48151,40.0,,Lamiales
+47178,49175,40.0,,Siluriformes
+50814,47380,40.0,,Polyporales
+1094814,47167,40.0,,Agaricales
+47163,47162,40.0,,Poales
+47124,48796,40.0,,Malvales
+47124,47363,40.0,,Gentianales
+848323,43367,40.0,,Primates
+47163,47329,40.0,,Liliales
+184884,47744,40.0,,Hemiptera
+47163,47218,40.0,,Asparagales
+144113,47186,40.0,,Decapoda
+952186,48327,40.0,,Lecanorales
+50814,48341,40.0,,Russulales
+3,67561,40.0,,Charadriiformes
+47124,48526,40.0,,Dipsacales
+3,67566,40.0,,Pelecaniformes
+47124,47729,40.0,,Sapindales
+47178,51368,40.0,,Esociformes
+848319,42540,40.0,,Didelphimorphia
+47124,51820,40.0,,Malpighiales
+848320,848324,43.0,,Laurasiatheria
+47668,533697,43.0,,Forcipulatacea
+848320,848323,43.0,,Euarchontoglires
+997267,372784,43.0,,Merocheta
+774775,144113,43.0,,Eucarida
+775800,775812,43.0,,Eupulmonata
+551316,551317,43.0,,Imparidentia
+774775,144114,43.0,,Peracarida
+372763,997267,44.0,,Eugnatha
+1051155,551316,44.0,,Euheterodonta
+775797,775800,44.0,,Tectipleura
+848317,848320,45.0,,Placentalia
+1051154,1051155,45.0,,Heteroconchia
+848317,848319,45.0,,Marsupialia
+551391,775797,45.0,,Euthyneura
+1051154,372769,45.0,,Pteriomorphia
+551278,372763,45.0,,Helminthomorpha
+47533,202756,47.0,,Hexacorallia
+121943,764793,47.0,,Equisetidae
+47584,1051154,47.0,,Autobranchia
+48220,1267990,47.0,,Fucophycidae
+121943,764796,47.0,,Polypodiidae
+63089,333586,47.0,,Oligochaeta
+47187,774775,47.0,,Eumalacostraca
+47158,184884,47.0,,Pterygota
+47114,551391,47.0,,Heterobranchia
+50814,1094814,47.0,,Agaricomycetidae
+40151,848317,47.0,,Theria
+54743,952186,47.0,,Lecanoromycetidae
+47735,551278,47.0,,Chilognatha
+47115,47114,50.0,,Gastropoda
+372739,47158,50.0,,Insecta
+355675,20978,50.0,,Amphibia
+245097,47119,50.0,,Arachnida
+47534,47533,50.0,,Anthozoa
+211194,121943,50.0,,Polypodiopsida
+144128,49556,50.0,,Chilopoda
+355675,40151,50.0,,Mammalia
+47491,63089,50.0,,Clitellata
+492000,83737,50.0,,Tremellomycetes
+372740,54743,50.0,,Lecanoromycetes
+48221,48220,50.0,,Phaeophyceae
+47125,47163,50.0,,Liliopsida
+355675,3,50.0,,Aves
+492000,50814,50.0,,Agaricomycetes
+47685,47684,50.0,,Myxomycetes
+355675,26036,50.0,,Reptilia
+355675,47178,50.0,,Actinopterygii
+47115,47584,50.0,,Bivalvia
+473790,47187,50.0,,Malacostraca
+211194,136329,50.0,,Pinopsida
+144128,47735,50.0,,Diplopoda
+481959,47668,50.0,,Asteroidea
+47125,47124,50.0,,Magnoliopsida
+85493,473790,53.0,,Multicrustacea
+48250,372740,57.0,,Pezizomycotina
+2,355675,57.0,,Vertebrata
+47120,245097,57.0,,Chelicerata
+47169,492000,57.0,,Agaricomycotina
+47120,85493,57.0,,Crustacea
+47549,481959,57.0,,Asterozoa
+47120,372739,57.0,,Hexapoda
+47120,144128,57.0,,Myriapoda
+211194,47125,57.0,,Angiospermae
+47170,48250,60.0,,Ascomycota
+1,47549,60.0,,Echinodermata
+48222,48221,60.0,,Ochrophyta
+1,47120,60.0,,Arthropoda
+47686,47685,60.0,,Mycetozoa
+1,47491,60.0,,Annelida
+1,47534,60.0,,Cnidaria
+1,2,60.0,,Chordata
+47170,47169,60.0,,Basidiomycota
+1,47115,60.0,,Mollusca
+47126,211194,60.0,,Tracheophyta
+,1,70.0,,Animalia
+,47686,70.0,,Protozoa
+,47170,70.0,,Fungi
+,48222,70.0,,Chromista
+,47126,70.0,,Plantae
