@@ -60,9 +60,7 @@ class Taxonomy:
         for node in self.nodes:
             # graft kingdoms onto life
             if node.parent is None:
-                print("found ungrafted node {}".format(node.name))
                 if node.taxon_id != 48460:
-                    print("grafting {} onto life".format(node.name))
                     node.parent = 48460
                     self.life.children.add(node.taxon_id)
             if node.taxon_id != 48460:
